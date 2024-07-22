@@ -1,0 +1,28 @@
+backports.tarfile==1.2.0
+django-filter==24.2
+drf-yasg==1.21.7
+importlib-metadata==8.0.0
+importlib-resources==6.4.0
+jaraco.text==3.12.1
+ordered-set==4.1.0
+pip-chill==1.0.3
+platformdirs==4.2.2
+tomli==2.0.1
+# asgiref==3.8.1 # Installed as dependency for django
+# autocommand==2.2.2 # Installed as dependency for jaraco.text
+# django==5.0.7 # Installed as dependency for django-filter, djangorestframework, drf-yasg
+# djangorestframework==3.15.2 # Installed as dependency for drf-yasg
+# inflect==7.3.1 # Installed as dependency for jaraco.text
+# inflection==0.5.1 # Installed as dependency for drf-yasg
+# jaraco.context==5.3.0 # Installed as dependency for jaraco.text
+# jaraco.functools==4.0.1 # Installed as dependency for jaraco.text
+# more-itertools==10.3.0 # Installed as dependency for inflect, jaraco.functools, jaraco.text
+# packaging==24.1 # Installed as dependency for drf-yasg
+# pytz==2024.1 # Installed as dependency for drf-yasg
+# pyyaml==6.0.1 # Installed as dependency for drf-yasg
+# sqlparse==0.5.1 # Installed as dependency for django
+# typeguard==4.3.0 # Installed as dependency for inflect
+# typing-extensions==4.12.2 # Installed as dependency for typeguard
+# tzdata==2024.1 # Installed as dependency for django
+# uritemplate==4.1.1 # Installed as dependency for drf-yasg
+# zipp==3.19.2 # Installed as dependency for importlib-metadata
